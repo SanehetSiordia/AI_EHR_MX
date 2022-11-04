@@ -1,6 +1,6 @@
 
 def main():
-    print ('hola mundo')
+    print ('Select a branch git to view the project code')
 
     return None
 
