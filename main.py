@@ -12,8 +12,8 @@ def main():
     print('Inicio del programa--------------------'.upper())
     #Cargar archivo________________________________________
     #nameFile = 'Data_E-C'
-    #nameFile = 'Data_E-N'
-    nameFile = 'Data_N-C'
+    nameFile = 'Data_E-N'
+    #nameFile = 'Data_N-C'
     #nameFile = 'Data_C-Enf'
     #nameFile = 'Data_E-Otros'
     #nameFile = 'Data_N-Otros'
