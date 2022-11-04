@@ -1,8 +1,14 @@
-node_modules/
 .DS_Store
 .idea/
-Funciones/__pycache__/
-DatosClinicos/
 Archivos_CSV/
+DatosClinicos/
+Funciones/__pycache__
+Graficas/
+ModelBin/
+ModelVec/
+node_modules/
 PickleFiles/
+PickleSaves/
+ResultsText/
 TextFiles/
+Txt_Result/
