@@ -85,8 +85,8 @@ def exportCsv(dic):
 
     rutaActual = os.path.abspath(os.getcwd())
 
-    dfStart.to_csv(str(rutaActual) + '\\ArchivosCSV\\notasIniciales.csv', index=True, header=False)
-    dfFinal.to_csv(str(rutaActual) + '\\ArchivosCSV\\notasFinales.csv', index=True, header=False)
+    dfStart.to_csv(str(rutaActual) + '\\Archivos_CSV\\notasIniciales.csv', index=True, header=False)
+    dfFinal.to_csv(str(rutaActual) + '\\Archivos_CSV\\notasFinales.csv', index=True, header=False)
     print('exportar csv')
 
     return resultado
@@ -95,14 +95,14 @@ def exportCsv(dic):
 def exportCsvLabs(df,name):
     rutaActual = os.path.abspath(os.getcwd())
 
-    df.to_csv(str(rutaActual) + '\\ArchivosCSV\\'+str(name)+'.csv', index=True, header=True)
+    df.to_csv(str(rutaActual) + '\\Archivos_CSV\\'+str(name)+'.csv', index=True, header=True)
     print('\n\tDataFrame Exportado a .CSV')
     return None
 
 def importCsvLabs():
     resultado=None
     rutaActual = os.path.abspath(os.getcwd())
-    nameFile=str(rutaActual) + '\\ArchivosCSV\\LabsPreprocesados.csv'
+    nameFile=str(rutaActual) + '\\Archivos_CSV\\LabsPreprocesados.csv'
     df = pd.read_csv(nameFile,index_col=0)
 
     resultado=df.copy()
