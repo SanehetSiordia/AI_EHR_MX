@@ -12,8 +12,7 @@ The extracted data is saved in dictionaries and exported in .pickle files as a b
 
 Finally, all the data stored in the .pickle files is exported to the database: *\AI_EHR_MX\mySQL_arch\enfermedadesresporatorias.sql* using SQL queries.
 
-![Diagram](README_images\Diagram.png "Diagram of the relational model used.")
-Figure 1. *Diagram of the relational model used*
+![Diagram](https://github.com/SanehetSiordia/AI_EHR_MX/blob/PDFrecopilation/README_images/Diagram.png?raw=true) "Diagram of the relational model used.")
 
 **Author's note**
 
