@@ -31,7 +31,7 @@ stemmed = [Snowball_stemmer.stem(word) for word in words]
 ```
 After the text preprocessing, the *FastText v0.9.2* package is used to create Word Embeddings with the Biomedical Cased CBOW corpus from the study: [_**“Spanish Biomedical Word Embeddings in FastText”**_](https://zenodo.org/record/4543236)
 
-![corpus](README_images\corpus.png "corpus used")
+![corpus](https://github.com/SanehetSiordia/AI_EHR_MX/tree/NLPanalysis/README_images/corpus.png) "corpus used")
 
 Path to store the corpus: *\AI_EHR_MX\ModelBin*
 
@@ -53,4 +53,4 @@ The BiLSTM model was evaluated with the metrics of Accuracy, Precision, Recall, 
 
 More information in the article **“Pneumonia and Pulmonary Thromboembolism Classification Using Electronic Health Records”** DOI: [_**10.3390/diagnostics12102536**_](https://doi.org/10.3390/diagnostics12102536)
 
-![paper](README_images\paper.png "paper published")
+![paper](https://github.com/SanehetSiordia/AI_EHR_MX/tree/NLPanalysis/README_images/paper.png) "paper published")
