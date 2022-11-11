@@ -8,7 +8,7 @@ There are two different folders: *1_Completos y 2_Editados*, where, in the secon
 
 These files were used for the congress article [_**DOI:10.24254/CNIB.21.56**_](https://memoriascnib.mx/index.php/memorias/article/download/875/543)
 
-![ConferencePaper](README_images\ConferencePaper.png "Extract of Conference Paper")
+![ConferencePaper](https://github.com/SanehetSiordia/AI_EHR_MX/blob/SQLtoCSV/README_images/ConferencePaper.png?raw=true "Extract of Conference Paper")
 
 **Author's note**
 
