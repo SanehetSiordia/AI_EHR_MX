@@ -1,0 +1,6 @@
+Spanish Biomedical Word Embeddings in FastText
+DOI
+10.5281/zenodo.4543236
+
+URL 
+https://zenodo.org/record/4543236
