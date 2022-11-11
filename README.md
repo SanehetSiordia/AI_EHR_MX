@@ -11,7 +11,7 @@ This is the original version of my thesis project for my master's degree in *Bio
 
 As a final product of this project the following article was published: **“Pneumonia and Pulmonary Thromboembolism Classification Using Electronic Health Records”** DOI: [**10.3390/diagnostics12102536**](https://doi.org/10.3390/diagnostics12102536)
 
-![paper](README_images\paper.png "paper published.")
+![paper](https://github.com/SanehetSiordia/AI_EHR_MX/blob/main/README_images/paper.png?raw=true "paper published.")
 
 ### **Program instruction**
 >To use this program, you must download each branch of the repository on your local machine and follow the instructions specified in the README.md file of each branch.
